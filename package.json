@@ -1,0 +1,13 @@
+{
+  "name": "auth-modern-messenger",
+  "version": "1.0.0",
+  "description": "A Javascript auth implementation using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
